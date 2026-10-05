@@ -1,0 +1,6 @@
+{
+  "name": "Shadow Dungeon: Rogue Survivor 2D",
+  "description": "Juego 2D vertical para móvil de acción RPG rogue-like jugable con una sola mano, con progresión de personaje permanente, árbol de talentos, equipo y mazmorras infinitas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
